@@ -46,7 +46,7 @@ services:
       - WEBUI_PORT=8080
     volumes:
       - '${configPath}/qBittorrent/:/config'
-      - '${downloadPath}/:/downloads'
+      - '${downloadsPath}/:/downloads'
     network_mode: service:gluetun
     restart: unless-stopped
 # Debrid Client -------------------------
