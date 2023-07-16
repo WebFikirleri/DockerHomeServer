@@ -1,6 +1,8 @@
 # DockerHomeServer
 Docker Home Server (Sonarr, Radarr, Jellyfin, Gluetun, Portainer, Jacket, Bazarr, Overseer, Homer, Debrid Client, qBittorrent)
 
+Buy Me A Coffee: https://ko-fi.com/webfikirleri
+
 ## Install
 ### 1. Clone Repository
     git clone https://github.com/WebFikirleri/DockerHomeServer.git docker-home-server
