@@ -33,3 +33,23 @@ Gather Your Api Key:
 [Real Debrid](https://real-debrid.com/apitoken)
 
 [All Debrid](https://alldebrid.com/apikeys/)
+
+## Links
+Portainer: https://localhost:9443/
+
+qBittorrent: http://localhost:8080/
+
+Debrid Client: http://localhost:6500/
+
+Sonarr: http://localhost:8989/
+
+Radarr: http://localhost:7878/
+
+Overseerr: http://localhost:5055/
+
+Jackett: http://localhost:9117/
+
+Bazarr: http://localhost:6767/
+
+Jellyfin: http://localhost:8096/
+
