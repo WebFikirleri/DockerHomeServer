@@ -45,8 +45,8 @@ services:
       - TZ=${TZ}
       - WEBUI_PORT=8080
     volumes:
-      - '${wDownConfig}/qBittorrent/:/config'
-      - '${wDownConfig}/:/downloads'
+      - '${configPath}/qBittorrent/:/config'
+      - '${downloadPath}/:/downloads'
     network_mode: service:gluetun
     restart: unless-stopped
 # Debrid Client -------------------------
@@ -60,8 +60,8 @@ services:
       - PGID=${PGID}
       - TZ=${TZ}
     volumes:
-      - '${hddDownloads}/:/data/downloads:rw'
-      - '${wDownConfig}/rdtclient/:/data/db:rw'
+      - '${downloadsPath}/:/data/downloads:rw'
+      - '${configPath}/rdtclient/:/data/db:rw'
     # ports:
     #     - '6500:6500'
     network_mode: service:gluetun
