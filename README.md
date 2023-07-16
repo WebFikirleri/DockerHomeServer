@@ -49,6 +49,7 @@ Radarr: http://localhost:7878/
 
 Overseerr: http://localhost:5055/
 
+
 Jackett: http://localhost:9117/
 
 Bazarr: http://localhost:6767/
