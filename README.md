@@ -17,7 +17,7 @@ Update your .env file to update paths and timezone.
 ## VPN Setup
 VPN is configured for one of the cheapest provider Ivacy VPN.
 
-[Create Ivacy VPN Account with Best Deal](https://billing.ivacy.com/page/9968)
+[Create Ivacy VPN Account with Best Deal](https://bit.ly/ivacy-deal)
 
 You can download OpenVPN files from here: https://support.ivacy.com/vpnusecases/openvpn-files-windows-routers-ios-linux-and-mac/
 
@@ -26,9 +26,9 @@ Here is the Tutorial for Gluetun for Ivacy: https://youtu.be/9zmMiYWrxFo
 ## Debrid Client Setup
 Create one of these accounts:
 
-[Real Debrid](http://real-debrid.com/?id=1221015)
+[Real Debrid](https://bit.ly/real-debrid-deals)
 
-[All Debrid](https://alldebrid.com/?uid=1necg&lang=en)
+[All Debrid](https://bit.ly/all-debrid-deals)
 
 Gather Your Api Key:
 
@@ -49,10 +49,14 @@ Radarr: http://localhost:7878/
 
 Overseerr: http://localhost:5055/
 
-
 Jackett: http://localhost:9117/
 
 Bazarr: http://localhost:6767/
 
 Jellyfin: http://localhost:8096/
 
+[![Ivacy](https://ivacy.postaffiliatepro.com/accounts/default1/vdegzkxbw/80cfcf07.png)](https://bit.ly/ivacy-deal)
+
+[![RealDebrid](https://fcdn.real-debrid.com/0820/images/banner/en.png)](https://bit.ly/real-debrid-deals)
+
+[![AllDebrid](https://cdn.alldebrid.com/lib/images/features.en.gif)](https://bit.ly/all-debrid-deals)
